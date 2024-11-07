@@ -1,24 +1,33 @@
 ## Introduction
 
+<div align="center">
+<img src="experiment/images/iitkgp.png" width="10%">
+</div>
 
-<b>Discipline | <b>Fill your discipline name here
+<b>Discipline | <b>Interdisciplinary Sciences and Engineering
 :--|:--|
-<b> Lab | <b> Fill your lab name here
-<b> Experiment|     <b> Fill your experiment name and number here
+<b> Lab | <b> Plant Metabolic Engineering Lab
+<b> Experiment|     <b> Gene isolation and characterisation, gene expression, gene regulation in plants and Experiment number 2
 
 ### About the Experiment 
 
 Fill a brief description of this experiment here
 
-<b>Name of Developer | <b> Fill the name of experiment owner here 
+### Subject Matter Expert
+<b>Name  | <b> Prof. Padmavati Manchikanti
 :--|:--|
-<b> Institute | <b>  
-<b> Email id|     <b>  
-<b> Department |  
+<b> Institute | <b>  IIT Kharagpur
+<b> Email id|     <b>  mpadma@rgsoipl.iitkgp.ac.in
+<b> Department |  Rajiv Gandhi School of IP Law
+
+
+### Developer and Integation Engineer
+| SNo. | Name | Designation | Department| Institute| 
+| :---: | :---: | :---: | :---: | :---: |
+| 1 | **Prakriti Dhang** | Project Scientist | Department of Mechanical Engineering | IIT Kharagpur |
 
 ### Contributors List
-
-SrNo | Name | Faculty or Student | Department| Institute | Email id
-:--|:--|:--|:--|:--|:--|
-1 | . | . | . | . | .
-2 | . | . | . | . | .
+Sr No | Name |  Designation | Department| Institute| 
+:--|:--|:--|:--|:--|
+1 | **Madhusmita Nanda** | M.Tech | Science Botany | IIT Kharagpur |
+2 | ** ** | M.Tech | Science Botany | IIT Kharagpur |
