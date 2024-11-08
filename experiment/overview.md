@@ -17,7 +17,7 @@ An example here is Arabidopsis thaliana, which is widely utilised in the field o
 Plant genes have a complicated structure made up of several essential elements that are involved in the transcription, translation, and control of genetic information.
 Transcription of genes results in mRNA, which is then translated into polypeptides. In case of ribosomal RNA (rRNA) and transfer RNA (tRNA) there is transcription, but they are not translated into polypeptides. These non-coding RNAs carry out a variety of tasks for the cell.
 
-1.	Promoter region   
+1.	**Promoter region**   
 The promoter is a distinct DNA sequence situated upstream (towards the 5' end) of the gene's coding region. The binding of RNA polymerase to these promoters is crucial for the commencement of transcription.
 The transcription rate of a specific DNA segment is determined by the sequence of bases in its promoter. The DNA sequence at a promoter site differs among genes, although all promoters possess a consensus sequence. 
 
@@ -40,7 +40,7 @@ Enhancer sequences are a distinct category of elements that exhibit a significan
 The origins of these sequences were initially discovered in viral genes but they have also been discovered in plants. Enhancers are situated within a short distance of a few hundred nucleotides before the initiation of transcription. While enhancer elements are typically located in the flanking sequences at the 5′ ends of genes, they can also be found in other locations.  
 A specific enhancer core sequence, such as GGTGTGGAAAG, or more generally GTGGT/AT/AT/AG (written as GTGGWWWG, where T/A is represented as W), can be identified through sequence comparisons. However, it is evident that other sequences besides the core are also significant. Plant enhancer-like sequences promote the particular expression of genes in tissues. 
 
-2. 5’ UTR region   
+2. **5’ UTR region**   
 
 The 5' untranslated region (5' UTR) is an essential component of the gene that performs multiple crucial functions in the control of gene expression. The 5' UTR, despite not being translated into protein, plays a crucial role in regulating the efficiency and precision of translation. The 5' untranslated region (UTR) is positioned between the promoter region and the initiation codon (AUG) of the gene.  
 
@@ -49,7 +49,7 @@ The 5' untranslated region (5' UTR) is an essential component of the gene that p
 Ribosome binding and scanning involve the ribosome scanning the 5' untranslated region (UTR) in order to locate the initiation codon. The existence of secondary structures or regulatory elements can impact the ribosome's ability to locate the start codon.  
 Translational repression occurs when certain sequences or structures in the 5' UTR region of mRNA bind to regulatory proteins or micro RNAs, resulting in the inhibition of translation.
 
-3.	Coding Sequences 
+3.	**Coding Sequences** 
 Exons are the portions of a gene that carry biological information or coding sequences, and the intervening sequences are referred to as Introns.   
 These discontinuous genes are also known as split or mosaic genes, and are now recognised to be prevalent in higher species. These introns are transcribed, but they are not translated since they are not seen in mature mRNA. While they have been shown in some plant structural genes, introns have not been discovered in rRNA genes. Introns can range from zero in higher species to hundreds in some. Introns are frequently far longer than exons.   
 Using genomic clones to compare the nucleotide sequences of DNA and mRNA, introns can be found. Under an electron microscope, cloned genomic DNA is annealed with RNA and the resulting material is analysed. The intron sequences will create single-stranded loops in the heteroduplex molecule since they are not present in the RNA.  
@@ -59,13 +59,13 @@ There is a wide range in the number of introns.
 
 All plant genes are the same in the first and last two bases of the introns GT and AG, respectively, when intervening sequences are present. All eukaryotic genes share the same two dinucleotides at the intron/exon junctions, indicating that comparable RNA splicing mechanisms are at work. 
 
-4.	3’ UTR
+4.	**3’ UTR**  
 The 3' UTR is not translated into protein and comes after the stop codons (UAA, UAG, and UGA). This area is home to sequences that both indicate the end of transcription and are important for nuclear export, translation efficiency, and mRNA stability.  
 (Stop codon & Start Codon - 61 of the 64 potential codons designate a specific amino acid; the other three codons (UAA, UAG, and UGA) serve as stop signals, alerting the translation machinery to the completion of protein synthesis.  
 Since the codon AUG in the mRNA determines the start site for translation in nearly all circumstances, the codon AUG (which specifies methionine) is also referred to as a start codon. It should be noted that all other amino acids have several codons, while only two—tryptophan and methionine—have just one. )
 
-5.	Polyadenylation Signal 
+5.	**Polyadenylation Signal**   
 This sequence is situated in the 3' untranslated region (UTR) and serves as a signal for the attachment of a poly(A) tail to the mRNA transcript. The presence of a poly(A) tail is essential for maintaining the stability of mRNA, facilitating its export from the nucleus, and enabling the process of translation.
 
-6.	Termination site
+6.	**Termination site**  
 This signifies the conclusion of the transcription process. The process entails distinct sequences that prompt RNA polymerase II to halt transcription and liberate the recently produced mRNA.

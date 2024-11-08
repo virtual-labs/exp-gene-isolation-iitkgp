@@ -16,17 +16,17 @@ table
 
 #### Some illustrations to understand Gene Characterization– 
 
-1.	Golden Rice- 
+1.	**Golden Rice**
 To address vitamin A deficiency, which causes blindness and immune deficiencies, especially in developing countries, Golden Rice is genetically modified to produce beta-carotene, a precursor of vitamin A, in the edible parts of rice.
 Golden rice was created by transforming rice with two beta-carotene biosynthesis genes:
 psy (phytoene synthase) from daffodil (*Narcissus pseudonarcissus*)
 crtI (phytoene desaturase) from the soil bacterium *Erwinia uredovora*.
 
-2.	Bt Corn 
+2.	**Bt Corn** 
 *Bacillus thuringiensis* (B. thuringiensis, a spore-forming soil bacterium, produces the crystal insecticidal protein (δ-endotoxin) known as Bt toxin by transcription from its cryogene. To provide resistance to pests like the European corn borer, reducing the need for chemical insecticides. Bt corn is engineered to express insecticidal proteins from the bacterium.  
 Researchers characterized the Bt toxin genes, determining how they kill insect pests. They then incorporated these genes into the corn genome and ensured stable expression and proper folding of the toxin protein to be effective against pests. 
 
-3.	Flood resistant Rice
+3.	**Flood resistant Rice**
 To enhance rice production in flood-prone regions, ensuring food security so that Rice varieties can survive prolonged submersion in water.  
 	The SUB1A gene, which confers flood tolerance by controlling ethylene response pathways, was identified. Researchers introduced this gene into rice varieties, enabling them to survive and recover from flooding.
 
