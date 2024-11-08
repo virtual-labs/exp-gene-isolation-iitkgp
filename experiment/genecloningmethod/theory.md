@@ -124,9 +124,9 @@ Transposons function as markers that indicate the position of the gene that has 
 </div>
 
 
-Types of cloning methods
+#### Types of cloning methods
 
-1.	Subtractive cloning
+1.	**Subtractive cloning**  
 In order to find and isolate genes that are different or absent in two plant samples, subtractive cloning is a useful technique. The objective of gene cloning is to find and clone the genes that are missing in a mutant plant compared to a wild-type plant.  
 
 Cut wild type DNA into small pieces using a restriction enzyme. Shear mutant DNA randomly and label it with Biotin. Heat both these DNA pieces so that they can hybridise and make a single strand. Most of the wild-type DNA will find a complementary strand in the mutant DNA and form double-stranded hybrids.  
@@ -136,7 +136,7 @@ When the deleted region of the mutant DNA is not matched by the wild-type DNA, t
 Collect the DNA that passes through the column (this is enriched for DNA fragments missing in the mutant). Repeat the hybridization and capture steps several times to ensure that you enrich for the specific DNA fragments corresponding to the deleted region.  
 Further, use PCR to amplify the enriched DNA fragments & clone the amplified gene into a vector for further analysis.
 
-2.	Map Based cloning 
+2.	**Map Based cloning**   
 Genes can be found and isolated using a method called map-based or positional cloning, which is based on chromosomal locations. Finding DNA markers that are strongly associated with the target gene is the foundation of this strategy, which involves using these markers to "walk" towards the gene through overlapping DNA clones.   
 Finding a DNA marker associated with the target gene and using it to find overlapping DNA segments that eventually lead to the gene itself is the fundamental principle of map-based cloning.  
 It is necessary to map the genes that are responsible for the changes in traits to chromosomal sites that are close to known DNA segments, sometimes known as markers.  
@@ -157,7 +157,7 @@ Three types of vector system have been used with varying degrees of success with
 The Ti(tumour - inducing) plasmid that is present in the cell wall of this bacteria carries numerous genes involved in the infectious process. These genes direct the synthesis of unusual compounds, called opines, that the bacteria use as nutrients. Using the Ti plasmid to introduce new genes into a plant cell.
 There are **novel strategies** that are used for inserting new DNA into plasmid these are- 
 
-1.	Binary vector strategy 
+1.	**Binary vector strategy**   
 In this, the tumour causing genes have been removed from Agrobacterium to prevent formation of tumour in plants but virulence genes are retained that help in transfer of T DNA from Agrobacterium to the plants.  
 Binary vector is a smaller plasmid that contains T-DNA region, which will be transferred to the plant later. The gene of interest is cloned into the T-DNA region of this binary vector. Now, this constructed binary vector is transferred to Agrobacterium cells.   
 The Agrobacterium genes already contain the disarmed Ti plasmid with virulence genes. Further, this Agrobacterium that has a binary vector is co-cultivated with plant cells or tissues. During this process, the virulence genes on the disarmed Ti plasmid are activated, leading to the transfer of the T-DNA region from the binary vector into the plant cell genome.  
@@ -168,14 +168,14 @@ The T-DNA region, including the gene of interest, integrates into the plant geno
 <p>Figure 2. The binary vector strategy</p>
 </div>
 
-2.	The co-integration strategy 
+2.	**The co-integration strategy**     
 This makes use of a single large Ti plasmid in Agrobacterium where the gene of interest is integrated into the T-DNA region through homologous recombination with an intermediate vector.
 The gene of interest is cloned to an intermediate vector. The intermediate vector is introduced into the Agrobacterium that combines with disarmed Ti plasmid to form co-integrated plasmid. Thus, a single plasmid is formed after co-integration by homologous recombination which is transferred to the plant cells.
 
-#### What’s New
+#### What’s New  
 There are cloning vectors that are based on the Ri Plasmid of Agrobacterium rhizogenes. The transfer of T-DNA from an Ri plasmid to a plant results not in crown gall but hairy root disease, which is massive proliferation of highly branched root systems. 
 
-### B.	Cloning genes in plants by direct gene transfer   
+### B.	**Cloning genes in plants by direct gene transfer**   
 
 When a supercoiled plasmid DNA (simple bacterial plasmid) in which an appropriate selectable marker (e.g. a kanamycin resistance gene ) and gene of interest has been inserted, is then introduced into plant embryo, the cloning by such method is “direct transfer method”.
 
@@ -184,14 +184,14 @@ When a supercoiled plasmid DNA (simple bacterial plasmid) in which an appropriat
 <p>Figure 3. Direct gene transfer</p>
 </div>
 
-### C.	Plant viruses as cloning vector   
+### C.	**Plant viruses as cloning vector**   
 
 Plants are susceptible to viral infection so, even if it would be convenient to use viruses as vectors, it is not preferred as plant viruses majorly have a genome of RNA and manipulation with RNA is a difficult task. 
 “Caulimoviruses” and “Geminiviruses” are known to infect higher plants but are not suited to gene cloning. 
 
 ### Cutting & Joining DNA molecules 
 	
-1.	**Enzymes for cutting - Restriction endonucleases** 
+1.	**Enzymes for cutting - Restriction endonucleases**   
 Identification of incoming foreign DNA into the cell & breaking up into fragments is called restriction. In order to prevent host DNA from being cleaved, modification involves methylating certain bases to safeguard the cell's own DNA.   
 The circular vector must be cut at a single location so that the DNA fragment to be cloned can be added during the creation of a recombinant DNA molecule. Each vector must only be cut once, and every vector molecule must be cut at exactly the same location. Enzymes called restriction endonucleases cut DNA at certain sites. 
 
@@ -199,6 +199,6 @@ The circular vector must be cut at a single location so that the DNA fragment to
 The enzymes used to join DNA fragments are called DNA ligases. When the vector and the DNA are cut by the same restriction enzyme, the overlapping ends of these cut pieces will then be complementary to each other. 
 These cut pieces when joined will form complementary base pairs between overlapping terminal single-stranded DNA sequences.
 
-3.	**Ligation**
+3.	**Ligation**  
 Ligases act on DNA substrates with 5′ terminal phosphate groups and form the phosphodiester bond between the two DNA sequences (vector molecule and the DNA to be cloned) to join them together. This is the final step in construction of a recombinant DNA molecule. This process is called ligation.
 

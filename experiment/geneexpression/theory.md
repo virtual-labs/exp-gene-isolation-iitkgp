@@ -11,27 +11,27 @@ In order to function, genes have to be expressed. The process by which the instr
 
 ### Different types of Genes & Gene Expression, for better understanding – 
 
-1. Constitutive Gene
+1. **Constitutive Gene**  
 Constitutive genes encode essential cellular functions and are thus, always expressed continuously and are always active.  
 EXAMPLE – Actin, particularly β-actin, along with glyceraldehyde-3-phosphate dehydrogenase (GAPDH), tubulin, cyclophilin, elongation factor 1-α (ef1α), ubiquitin, and 18 Svedberg Units (S) rRNA (18S rRNA), are constitutively expressed and participate in fundamental housekeeping functions essential for cellular maintenance.  
 Tubulin genes in plants help in control of cell shape and intracellular support.   
 ILLUSTRATION - Constitutive genes are like the utilities (electricity, water) in a house that are always on to keep the house running smoothly.  
 
-2.	Inducible Gene
+2.	**Inducible Gene**  
 These are expressed only under specific conditions, they are turned on in response to an inducer molecule or environmental stimulus.  
 EXAMPLE – AlcR/AlcA (ethanol inducible); GR fusions, GVG, and pOp/LhGR (dexamethasone inducible); XVE/OlexA (β-estradiol inducible); and heat shock induction.  
 ILLUSTRATION -Inducible genes are like a security system that activates when a burglar tries to break in, alerting the occupants to take action.
 
-3.	Repressible Gene
+3.	**Repressible Gene**  
 Repressible genes are normally active, but in the presence of a certain chemical, they can become inactive, or repressed. These genes frequently function in pathways that are anabolic.  
 EXAMPLE – Nitrate Reductase Genes – these are generally involved in nitrogen metabolism and are repressed when nitrogen levels are high, Nac 2 gene  
 ILLUSTRATION – Repressible genes are like a factory that shuts down when the warehouse is full.
 
-4.	Tissue Specific Gene 
+4.	**Tissue Specific Gene**   
 Tissue-specific genes are expressed only in particular tissues, allowing for the specialization of cells within different parts of the body.  
 EXAMPLE – Storage protein Genes in Seeds – these are expressed specifically in seeds and encode proteins that store nutrients. PHA (Phaseolin) in beans is one such example, EMB-23 gene in ripe pulp and flower of Grand Naine(Banana), Petal development in orchids is governed by high expression of clade-1/2 DEF like genes and low expression of clade-3/4 DEF-like genes. The transitory expression of the OgCHS gene from Gower Ramsey in the white Honey Dolls of the Oncidium species is responsible for the production of Anthocyanins which display red patterns. Expression of ethylene insensitive-3 like (EIL) and ethylene response factor (ERF) is responsible for fruit ripening in Peach.
 
-5.	Developmentally Regulated Gene 
+5.	**Developmentally Regulated Gene**   
 There are some genes that are expressed at specific stages of organism’s development. They further ensure proper progression of developmental stages.   
 EXAMPLE – Leafy (LFY) Gene – these are critical for the transition from vegetative to floral development in plants, Baby Boom (BBM) gene regulates early embryo and endosperm development, Transparent testa glabra2 (TTG2) controls trichome development and seed coat production, KNAT1 induces lobed leaves with ectopic meristems when overexpressed in Arabidopsis.  
 
