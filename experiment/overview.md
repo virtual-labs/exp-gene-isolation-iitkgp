@@ -22,7 +22,7 @@ The promoter is a distinct DNA sequence situated upstream (towards the 5' end) o
 The transcription rate of a specific DNA segment is determined by the sequence of bases in its promoter. The DNA sequence at a promoter site differs among genes, although all promoters possess a consensus sequence. 
 
 <div align="center">
-<img src="images/2.jpg" class="img-fluid">
+<img src="./images/Fig 1.png" class="img-fluid">
 <p>Figure 1. Diagrammatic representation of a typical nuclear gene </p>
 </div>
 

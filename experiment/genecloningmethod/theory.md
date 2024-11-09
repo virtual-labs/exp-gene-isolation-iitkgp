@@ -119,7 +119,7 @@ Transposons function as markers that indicate the position of the gene that has 
 
 
 <div align="center">
-<img src="images/1.jpg" width="70%">
+<img src="../images/Fig 2.png" width="70%">
 <p>Figure 1. The major steps in isolation of gene by transposon tagging</p>
 </div>
 
@@ -164,13 +164,18 @@ The Agrobacterium genes already contain the disarmed Ti plasmid with virulence g
 The T-DNA region, including the gene of interest, integrates into the plant genome. This integration is stable and allows the gene to be expressed in the plant cells.  
 
 <div align="center">
-<img src="images/1.jpg" width="70%">
+<img src="../images/Fig 3.png" width="70%">
 <p>Figure 2. The binary vector strategy</p>
 </div>
 
 2.	**The co-integration strategy**     
 This makes use of a single large Ti plasmid in Agrobacterium where the gene of interest is integrated into the T-DNA region through homologous recombination with an intermediate vector.
 The gene of interest is cloned to an intermediate vector. The intermediate vector is introduced into the Agrobacterium that combines with disarmed Ti plasmid to form co-integrated plasmid. Thus, a single plasmid is formed after co-integration by homologous recombination which is transferred to the plant cells.
+
+<div align="center">
+<img src="../images/Fig 4.png" width="70%">
+<p>Figure 3. The co-integration strategy</p>
+</div>
 
 #### What’s New  
 There are cloning vectors that are based on the Ri Plasmid of Agrobacterium rhizogenes. The transfer of T-DNA from an Ri plasmid to a plant results not in crown gall but hairy root disease, which is massive proliferation of highly branched root systems. 
@@ -180,8 +185,8 @@ There are cloning vectors that are based on the Ri Plasmid of Agrobacterium rhiz
 When a supercoiled plasmid DNA (simple bacterial plasmid) in which an appropriate selectable marker (e.g. a kanamycin resistance gene ) and gene of interest has been inserted, is then introduced into plant embryo, the cloning by such method is “direct transfer method”.
 
 <div align="center">
-<img src="images/1.jpg" width="70%">
-<p>Figure 3. Direct gene transfer</p>
+<img src="../images/Fig 5.png" width="70%">
+<p>Figure 4. Direct gene transfer</p>
 </div>
 
 ### C.	**Plant viruses as cloning vector**   

@@ -12,7 +12,15 @@ To accomplish this, it is necessary to investigate the sequences of DNA, the pat
 
 ### Relevance of genes with respect to functions: An illustration
 
-table 
+| Functionality Type | Description| Example Genes  | Roles| 
+| :---: | :---: | :---: | :---: | 
+| Structural | Provides structural components within cells and tissues | Actin, Tubulin | Maintain cell shape, enable cell movement and contribute to cytoskeleton |  
+| Enzymatic | Catalyze biochemical reactions | Rubisco, Nitrate Reductase | Facilitate photosynthesis, nitrogen assimilation, and various metabolic pathways |
+| Regulatory | Control the expression of other genes | MYB, WRKY, MADS-box | Regulate developmental processes, stress responses and signal transduction pathways |
+| Transport | Involved in the movement of molecules across cell membranes | Aquaporins, ABC transporters | Facilitates water transport, nutrient uptake and detoxification |
+| Signaling | Mediate communication between cells and within cells | Receptor Kinases, G-proteins | Transduce external signals, developmental processes, and regulate responses to environmental stimuli |
+| Defensive | Protect plants against pathogen and pests | PR Genes, Bt toxin Genes | Confer  resistance to diseases and insect pests, induce systemic acquired resistances (SAR) |
+| Storage | Store nutrients & energy | Seed storage proteins (e.g. Albumins Globulins) | Provide energy and building blocks during seed germination and early growth |
 
 #### Some illustrations to understand Gene Characterization– 
 
@@ -30,12 +38,14 @@ Researchers characterized the Bt toxin genes, determining how they kill insect p
 To enhance rice production in flood-prone regions, ensuring food security so that Rice varieties can survive prolonged submersion in water.  
 	The SUB1A gene, which confers flood tolerance by controlling ethylene response pathways, was identified. Researchers introduced this gene into rice varieties, enabling them to survive and recover from flooding.
 
-table or image
-
-
 
 
 <div align="center">
-<img src="images/2.jpg" class="img-fluid">
-<p>Figure 2. Agrobacterium-Mediated Gene Transfer (Transformation) in Plants </p>
+<img src="../images/Fig 6.png" class="img-fluid">
+<p>Figure 1: Transgenic vegetables with improved storage</p>
+</div>
+
+<div align="center">
+<img src="../images/Fig 7.png" class="img-fluid">
+<p>Figure 2: Transgenic vegetables with nutritional value</p>
 </div>

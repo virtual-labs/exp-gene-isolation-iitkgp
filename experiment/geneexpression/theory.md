@@ -45,7 +45,7 @@ There are 3 types of RNA –
 3.	mRNA (Messenger RNA) – carries the protein-coding information from DNA and is translated subsequently for protein synthesis. 
 
 <div align="center">
-<img src="images/1.jpg" width="70%">
+<img src="../images/Fig 8.png" width="70%">
 <p>Figure 1. The structure and expression of a eukaryotic protein-coding gene</p>
 </div>
 
