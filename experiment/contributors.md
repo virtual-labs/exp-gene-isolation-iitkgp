@@ -14,4 +14,5 @@
 ## Contributors List
 Sr No | Name |  Designation | Department| Institute| 
 :--|:--|:--|:--|:--|
-1 | **Himanshi Gupta** | B.Tech | Science Botany | IIT Kharagpur |
+1 | **Madhusmita Nanda** | M.Tech | Science Botany | IIT Kharagpur |
+2 | ** ** | M.Tech | Science Botany | IIT Kharagpur |
