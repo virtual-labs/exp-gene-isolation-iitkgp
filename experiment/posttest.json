@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Which sequence in eukaryotic genes helps initiate accurate transcription?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "CAAT box",
+        "b": "TATA box",
+        "c": "AGGA box",
+        "d": "Polyadenylation signal"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "2. Which of the following is an example of a regulatory gene?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Actin",
+        "b": "Myeloblastosis (MYB)",
+        "c": "Rubisco",
+        "d": "Nitrate reductase"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. How is the SUB1A gene significant in rice?",
+      "answers": {
+        "a": "It increases resistance to pests",
+        "b": "It improves drought tolerance",
+        "c": "It enhances flood resistance by controlling ethylene pathways",
+        "d": "It contributes to higher photosynthesis efficiency"
       },
+     
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. What is the binary vector strategy in Agrobacterium-mediated gene transfer?",
+      "answers": {
+        "a": "Using viral vectors to insert genes into plants",
+        "b": "Removing tumor-inducing genes while retaining virulence genes",
+        "c": "Transferring genes directly into plant embryos without vectors",
+        "d": "Inserting RNA sequences instead of DNA"
+      },
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. What is a constitutive gene?",
+      "answers": {
+        "a": "A gene that is expressed only under specific conditions",
+        "b": "A gene that is continuously active and essential for cellular functions",
+        "c": "A gene that is repressed by external factors",
+        "d": "A gene expressed in specific tissues only"
+      },
+     
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
