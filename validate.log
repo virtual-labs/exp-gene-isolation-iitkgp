@@ -1,0 +1,11 @@
+{
+  _: [],
+  f: [
+    '/home/runner/work/exp-gene-isolation-iitkgp/exp-gene-isolation-iitkgp/experiment-descriptor.json'
+  ],
+  files: [
+    '/home/runner/work/exp-gene-isolation-iitkgp/exp-gene-isolation-iitkgp/experiment-descriptor.json'
+  ],
+  '$0': 'validate'
+}
+Validated true
