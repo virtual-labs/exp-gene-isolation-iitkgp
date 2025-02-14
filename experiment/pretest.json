@@ -2,37 +2,63 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. A gene can be defined as:",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A protein involved in cellular signaling",
+        "b": "A unit of inheritance with genomes & nucleotides",
+        "c": "A sequence of RNA responsible for photosynthesis",
+        "d": "A unit only found in plant cells"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+     
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. What is the primary role of a promoter region in a gene?",
+      "answers": {
+        "a": "To terminate transcription",
+        "b": "To bind RNA polymerase and initiate transcription",
+        "c": "To translate RNA into proteins",
+        "d": "To mutate DNA sequences"
       },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. In prokaryotes, the predominant site for control of gene expression is the ______",
+      "answers": {
+        "a": "Transcription initiation",
+        "b": "Processing level",
+        "c": "Transport of mRNA",
+        "d": "Translation level"
+      },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "4. In eukaryotes which of the following is removed from initially transcribed RNA before it is transported to the cytoplasm for translation?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Intron",
+        "b": "3’ Poly A tail",
+        "c": "Ribosome binding site",
+        "d": "5’ cap"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. DNA ligase joins ______",
+      "answers": {
+        "a": "Hydrogen bond",
+        "b": "Phosphodiestes bond",
+        "c": "Glycosidic ",
+        "d": "Peptide"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

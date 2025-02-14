@@ -29,5 +29,5 @@ Fill a brief description of this experiment here
 ### Contributors List
 Sr No | Name |  Designation | Department| Institute| 
 :--|:--|:--|:--|:--|
-1 | **Madhusmita Nanda** | M.Tech | Science Botany | IIT Kharagpur |
-2 | ** ** | M.Tech | Science Botany | IIT Kharagpur |
+1 | **Himanshi Gupta** | B.Tech | Science Botany | IIT Kharagpur |
+
