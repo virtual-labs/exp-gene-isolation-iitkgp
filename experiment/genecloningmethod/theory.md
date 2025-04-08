@@ -207,3 +207,14 @@ These cut pieces when joined will form complementary base pairs between overlapp
 3.	**Ligation**  
 Ligases act on DNA substrates with 5′ terminal phosphate groups and form the phosphodiester bond between the two DNA sequences (vector molecule and the DNA to be cloned) to join them together. This is the final step in construction of a recombinant DNA molecule. This process is called ligation.
 
+##### Imagine a railway system where each part of the train represents a different type of gene, all working together to ensure smooth operation.
+
+<div align="center">
+<img src="./images/pic1.png" width="70%">
+
+</div>
+
+<div align="center">
+<img src="./images/pic2.png" width="70%">
+
+</div>
