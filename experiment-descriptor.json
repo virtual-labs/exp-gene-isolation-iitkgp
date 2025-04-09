@@ -53,102 +53,30 @@
 
       ]
     },
+
     {
-      "unit-type": "lu",
+      "unit-type": "task",
       "label": "Gene Characterization",
-      "basedir": "genecharacterization",
-      "units": [
-        {
-          "unit-type": "aim"
-        },
-        {
-          "unit-type": "task",
-          "label": "Theory",
-          "content-type": "text",
-          "source": "theory.md",
-          "target": "theory.html"
-        },
-        {
-          "unit-type": "task",
-          "label": " Procedure",
-          "content-type": "text",
-          "source": "procedure.md",
-          "target": "procedure.html"
-        },
-        {
-          "unit-type": "task",
-          "label": " Simulation",
-          "content-type": "simulation",
-          "source": "simulation/indexgcharac.html",
-          "target": "indexgcharac.html"
-        }
-
-      ]
+      "content-type": "text",
+      "source": "theorycharac.md",
+      "target": "theorycharac.html"
     },
+   
     {
-      "unit-type": "lu",
+      "unit-type": "task",
       "label": "Gene Expression",
-      "basedir": "geneexpression",
-      "units": [
-        {
-          "unit-type": "aim"
-        },
-        {
-          "unit-type": "task",
-          "label": "Theory",
-          "content-type": "text",
-          "source": "theory.md",
-          "target": "theory.html"
-        },
-        {
-          "unit-type": "task",
-          "label": " Procedure",
-          "content-type": "text",
-          "source": "procedure.md",
-          "target": "procedure.html"
-        },
-        {
-          "unit-type": "task",
-          "label": " Simulation",
-          "content-type": "simulation",
-          "source": "simulation/indexgexp.html",
-          "target": "indexgexp.html"
-        }
-
-      ]
+      "content-type": "text",
+      "source": "theoryexp.md",
+      "target": "theoryexp.html"
     },
     {
-      "unit-type": "lu",
+      "unit-type": "task",
       "label": "Gene Regulation",
-      "basedir": "generegulation",
-      "units": [
-        {
-          "unit-type": "aim"
-        },
-        {
-          "unit-type": "task",
-          "label": "Theory",
-          "content-type": "text",
-          "source": "theory.md",
-          "target": "theory.html"
-        },
-        {
-          "unit-type": "task",
-          "label": " Procedure",
-          "content-type": "text",
-          "source": "procedure.md",
-          "target": "procedure.html"
-        },
-        {
-          "unit-type": "task",
-          "label": " Simulation",
-          "content-type": "simulation",
-          "source": "simulation/indexgreg.html",
-          "target": "indexgcharac.html"
-        }
-
-      ]
+      "content-type": "text",
+      "source": "theoryreg.md",
+      "target": "theoryreg.html"
     },
+    
    
     {
       "unit-type": "task",
