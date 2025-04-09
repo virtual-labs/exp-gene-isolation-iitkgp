@@ -41,11 +41,11 @@ To enhance rice production in flood-prone regions, ensuring food security so tha
 
 
 <div align="center">
-<img src="../images/Fig 6.png" class="img-fluid">
+<img src="./images/Fig 6.png" class="img-fluid">
 <p>Figure 1: Transgenic vegetables with improved storage</p>
 </div>
 
 <div align="center">
-<img src="../images/Fig 7.png" class="img-fluid">
+<img src="./images/Fig 7.png" class="img-fluid">
 <p>Figure 2: Transgenic vegetables with nutritional value</p>
 </div>
