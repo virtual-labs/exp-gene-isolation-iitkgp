@@ -1,13 +1,179 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<!-- Add CSS at the head of HTML file -->
-    <link rel="stylesheet" href="./css/main.css">
-</head>
-<body>
-		<!-- Your code goes here-->
 
-	<!-- Add JS at the bottom of HTML file --> 
-        <script src="./js/main.js"></script>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+	<!-- Add CSS at the head of HTML file -->
+	<link rel="stylesheet" href="./css/main.css">
+</head>
+
+<body>
+	<!-- Your code goes here-->
+	<div class="container-fluid p-2 mt-2 ">
+
+		<div class="row ">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header fs-5 fw-bold">
+						Instructions
+						<button class="btn btn-warning " style="float:right;" type="button" id="restart"
+							onclick="restartexp()">
+							Re-Do the Experiment</button>
+					</div>
+
+					<div class="card-body">
+						<ol id="inst1">
+							<li>Click on the Scissor. Click again to cut the DNA.</li>
+							<li>Click on Plus image.</li>
+							<li>Click on test tube.</li>
+							<li>Click on Recombinant DNA to transfer back into bacteria. </li>
+							<li> Click on Gene library. </li>
+							<li> CLick on Magnifying glass.</li>
+						</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row ">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-body text-center" id="steps" style="display: block;">DNA of organism having gene of interest</div>
+					<div class="card-body text-center" id="stepsa" style="display: none;">
+						<p>Sreening take place on the basis of-</p>
+			<ol>
+				<li>DNA sequence of the
+					gene of interest</li>
+				<li>Protein encoded by gene of interest</li>
+				<li>DNA marker whose location has been mapped
+					close to the gene of interest</li>
+			</ol>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--div class="row ">
+			<div class="col-md-12">
+				<div class="card">
+					<div class="card-header fs-5 fw-bold">
+						Equipment required
+
+					</div>
+
+					<div class="card-body">
+						
+						<table class="table table-bordered">
+							<tr>
+								<td>
+									<button class="btn btn-info " type="button" id="scissorbtn" data-bs-toggle="modal"
+										data-bs-target="#exampleModal">
+										Scissors</button>
+									<button class="btn btn-info " type="button" id="nitrogenbtn" data-bs-toggle="modal"
+										data-bs-target="#exampleModal">
+										n<sub>2</sub></button>
+									<button class="btn btn-info " type="button" id="motorpestlebtn" data-bs-toggle="modal"
+										data-bs-target="#exampleModal">
+										Motor pestle</button>
+									<button class="btn btn-info " type="button" id="bowlbtn" data-bs-toggle="modal"
+										data-bs-target="#exampleModal">
+										Bowl</button>
+									
+
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2">
+									
+									<button class="btn btn-warning " style="float:right;" type="button" id="restart"
+										onclick="restartexp()">
+										Re-Do the Experiment</button>
+								</td>
+							</tr>
+
+
+						</table>
+					</div>
+				</div>
+			</div>
+		</div-->
+		<div class="row ">
+			<div class="col-md-12">
+				<div class="card card-body border border-0">
+					<img src="./images/Picture1.png" class="img-fluid" data-toggle="tooltip" data-placement="bottom"
+						title="DNA of organism having gene of interest" id="dnacss">
+					<img src="./images/Picture3.png" class="img-fluid" data-toggle="tooltip" data-placement="bottom"
+						title="Cut DNA" id="dnacutcss">
+
+					<img src="./images/Scissors.png" class="img-fluid" data-toggle="tooltip" data-placement="bottom"
+						title="Scissor" id="scissorscss" onclick="scissorjsclick()">
+					<img src="./images/Plus.png" class="img-fluid" id="pluscss">
+					<img src="./images/Picture4.png" class="img-fluid" data-toggle="tooltip" data-placement="bottom"
+						title="Petridish" id="petridish">
+
+					<img src="./images/Bacterial Plasmid_picture4.png" class="img-fluid" id="bactpetridish">
+
+					<img src="./images/Test tube.png" class="img-fluid" data-toggle="tooltip" data-placement="bottom"
+						title="Test Tube" id="testtube">
+
+					<img src="./images/Picture5.png" class="img-fluid" data-toggle="tooltip" data-placement="bottom"
+						title="Recombinant DNA is transferred back into bacteria" id="picture5">
+
+					<img src="./images/Picture6.png" class="img-fluid" data-toggle="tooltip" data-placement="bottom"
+						title="Petri Dish" id="petridish1">
+
+
+					<img src="./images/Bacteria on picture6.png" class="img-fluid" id="bactpict6" >
+					<img src="./images/Bacteria on picture6.png" class="img-fluid" id="bactpict6a" >
+					<img src="./images/Bacteria on picture6.png" class="img-fluid" id="bactpict6b">
+					<img src="./images/Bacteria on picture6.png" class="img-fluid" id="bactpict6c" >
+					<img src="./images/Bacteria on picture6.png" class="img-fluid" id="bactpict6d">
+
+					<img src="./images/Magnifying glass.png" class="img-fluid" id="magniglass">
+
+
+
+				</div>
+			</div>
+
+
+
+		</div>
+
+<!--div class="row border border-0">
+	<div class="col-md-6">
+		<span class="popuptext" id="myPopup" style="display: none">
+			<p>Sreening take place on the basis of-</p>
+			<ol>
+				<li>DNA sequence of the
+					gene of interest</li>
+				<li>Protein encoded by gene of interest</li>
+				<li>DNA marker whose location has been mapped
+					close to the gene of interest</li>
+			</ol>
+
+		</span>
+	</div>
+</div-->
+		
+
+	</div>
+	<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+	<script src="https://cdn.canvasjs.com/canvasjs.min.js"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.16.9/xlsx.full.min.js"></script>
+	<!-- Add JS at the bottom of HTML file -->
+	<script src="./js/main.js"></script>
+	<script>
+		$(function () {
+			$('[data-toggle="tooltip"]').tooltip(
+				{
+					placement: 'bottom'
+				}
+			);
+		})
+
+	</script>
 </body>
+
 </html>
