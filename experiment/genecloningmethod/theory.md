@@ -26,9 +26,9 @@ This example clearly explains how gene cloning in plants has led to significant 
 Thus, Gene cloning serves a different purpose when introduced and multiplied into the host cell. Cloning the genes help in understanding the function of specific genes in plant development, physiology, response to environmental stress etc. It involves enhancing the desired traits, introducing new traits, understanding gene expression and regulatory patterns, preserving & protecting genes from endangered plant species etc. 
 
 
-#### Gene Isolation 
+### Gene Isolation 
 
-1.	Genome Mapping / Chromosome mapping 
+### 1. Genome Mapping / Chromosome mapping**
 A genome's route map is established through the mapping of chromosomes, which aids in the location and manipulation of key genes. It facilitates the determination of the molecular environment for DNA sequences that code and those that do not.
 The map of a chromosome can be of 2 types – 
 -	Genetic map
@@ -42,7 +42,7 @@ They tell about the physical position of genes on a chromosome.
 Distances are measured in “base pairs”. Since, genetic maps and physical maps are available globally, this information can be used for crop improvement & isolation purposes. 
 
 
-2.	Isolation of Gene coding for specific proteins
+### 2. Isolation of Gene coding for specific proteins
 When a gene has to be isolated on the basis of the function, two main processes are generally used –
 
 #### Protein Purification – 
@@ -72,7 +72,7 @@ to be isolated.*
 9.	Select genomic clone and isolate the gene.
 
 
-3.	Isolation of gene that are tissue specific in function 
+### 3.	Isolation of gene that are tissue specific in function 
 It is considerably simpler to separate genes that are expressed in particular tissues. Genes encoding storage proteins, for instance, are expressed only in growing seeds. These genes can be isolated because the mRNA that is recovered from these particular tissues either richly contains this particular mRNA or exclusively belongs to the gene of interest.   
 In order to isolate particular genes, it is possible to make use of specialized molecular probes, such as DNA or RNA, if they are accessible. There is a possibility that these probes are derived from another species that possesses the same gene, or that they are manufactured artificially by using a portion of the amino acid sequence of the protein.    
 (A probe is a molecule (a segment of DNA or RNA) that recognizes the corresponding sequence in DNA or RNA molecules through the process of molecular hybridization. This recognition enables the identification and separation of specific DNA sequences from an organism. )
@@ -92,7 +92,6 @@ The probes obtained from one species and used for another species are called het
 #### Transposons
 Transposons are mobile genetic elements. They are segments of DNA that are not autonomous and have the potential to insert themselves at random into the genome, plasmids, or bacterial chromosomes without the requirement of the recombination system of the host cell. Furthermore, they have the capacity to integrate at various locations within the genome and to migrate across the genome, which is referred to as transposing. 
 The phenotypic of an organism might undergo discernible changes as a consequence of this process, which can have a substantial impact on the activity of genes.  
-
 In the process of inserting themselves into a gene, transposons have the potential to interfere with the normal function of that gene. This is due to the fact that the transposon sequence has the potential to disrupt the coding sequence or regulatory areas of the gene, thus preventing the gene from being produced in the appropriate manner.  
 It is common for a mutant phenotype to result from the interruption of gene function that is caused by transposon insertion. When compared to its typical state, this indicates that the organism may display new or altered physical characteristics.  
 Many transposon-induced mutations are unstable. Transposons' capacity to remove themselves from the DNA causes instability. After excising itself from a gene, a transposon can reverse the mutation and restore gene function.  
@@ -124,9 +123,9 @@ Transposons function as markers that indicate the position of the gene that has 
 </div>
 
 
-#### Types of cloning methods
+### Types of cloning methods
 
-1.	**Subtractive cloning**  
+#### 1.	Subtractive cloning 
 In order to find and isolate genes that are different or absent in two plant samples, subtractive cloning is a useful technique. The objective of gene cloning is to find and clone the genes that are missing in a mutant plant compared to a wild-type plant.  
 
 Cut wild type DNA into small pieces using a restriction enzyme. Shear mutant DNA randomly and label it with Biotin. Heat both these DNA pieces so that they can hybridise and make a single strand. Most of the wild-type DNA will find a complementary strand in the mutant DNA and form double-stranded hybrids.  
@@ -136,7 +135,7 @@ When the deleted region of the mutant DNA is not matched by the wild-type DNA, t
 Collect the DNA that passes through the column (this is enriched for DNA fragments missing in the mutant). Repeat the hybridization and capture steps several times to ensure that you enrich for the specific DNA fragments corresponding to the deleted region.  
 Further, use PCR to amplify the enriched DNA fragments & clone the amplified gene into a vector for further analysis.
 
-2.	**Map Based cloning**   
+#### 2.	Map Based cloning  
 Genes can be found and isolated using a method called map-based or positional cloning, which is based on chromosomal locations. Finding DNA markers that are strongly associated with the target gene is the foundation of this strategy, which involves using these markers to "walk" towards the gene through overlapping DNA clones.   
 Finding a DNA marker associated with the target gene and using it to find overlapping DNA segments that eventually lead to the gene itself is the fundamental principle of map-based cloning.  
 It is necessary to map the genes that are responsible for the changes in traits to chromosomal sites that are close to known DNA segments, sometimes known as markers.  
@@ -148,16 +147,16 @@ It is possible that these markers are microsatellite markers or RFLP markers, wh
 
 Illustration - Just like mosquito acts as an insect vector to transfer the malaria parasite into human body, similarly plasmids acts as vector to transfer the gene of interest into the host organism.
 
-Three types of vector system have been used with varying degrees of success with higher plants- 
-   a. Vector based on naturally occurring plasmids of Agrobacterium.
-   b. Direct gene transfer using various types of plasmid DNA.
-   c. Vectors based on plant viruses. 
+Three types of vector system have been used with varying degrees of success with higher plants-   
+   a. Vector based on naturally occurring plasmids of Agrobacterium.  
+   b. Direct gene transfer using various types of plasmid DNA.  
+   c. Vectors based on plant viruses.   
 
-  a. Vector based on naturally occurring plasmids of Agrobacterium.
+  #### a. Vector based on naturally occurring plasmids of Agrobacterium.
 The Ti(tumour - inducing) plasmid that is present in the cell wall of this bacteria carries numerous genes involved in the infectious process. These genes direct the synthesis of unusual compounds, called opines, that the bacteria use as nutrients. Using the Ti plasmid to introduce new genes into a plant cell.
 There are **novel strategies** that are used for inserting new DNA into plasmid these are- 
 
-1.	**Binary vector strategy**   
+#### 1.	Binary vector strategy   
 In this, the tumour causing genes have been removed from Agrobacterium to prevent formation of tumour in plants but virulence genes are retained that help in transfer of T DNA from Agrobacterium to the plants.  
 Binary vector is a smaller plasmid that contains T-DNA region, which will be transferred to the plant later. The gene of interest is cloned into the T-DNA region of this binary vector. Now, this constructed binary vector is transferred to Agrobacterium cells.   
 The Agrobacterium genes already contain the disarmed Ti plasmid with virulence genes. Further, this Agrobacterium that has a binary vector is co-cultivated with plant cells or tissues. During this process, the virulence genes on the disarmed Ti plasmid are activated, leading to the transfer of the T-DNA region from the binary vector into the plant cell genome.  
@@ -168,7 +167,7 @@ The T-DNA region, including the gene of interest, integrates into the plant geno
 <p>Figure 2. The binary vector strategy</p>
 </div>
 
-2.	**The co-integration strategy**     
+#### 2.	The co-integration strategy     
 This makes use of a single large Ti plasmid in Agrobacterium where the gene of interest is integrated into the T-DNA region through homologous recombination with an intermediate vector.
 The gene of interest is cloned to an intermediate vector. The intermediate vector is introduced into the Agrobacterium that combines with disarmed Ti plasmid to form co-integrated plasmid. Thus, a single plasmid is formed after co-integration by homologous recombination which is transferred to the plant cells.
 
