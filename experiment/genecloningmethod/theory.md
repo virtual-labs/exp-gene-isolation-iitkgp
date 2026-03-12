@@ -118,7 +118,7 @@ Transposons function as markers that indicate the position of the gene that has 
 
 
 <div align="center">
-<img src="../images/Fig 2.png" width="70%">
+<img src="../images/Fig 2.png" style="max-width:100%; height:auto;">
 <p>Figure 1. The major steps in isolation of gene by transposon tagging</p>
 </div>
 
@@ -163,7 +163,7 @@ The Agrobacterium genes already contain the disarmed Ti plasmid with virulence g
 The T-DNA region, including the gene of interest, integrates into the plant genome. This integration is stable and allows the gene to be expressed in the plant cells.  
 
 <div align="center">
-<img src="../images/Fig 3.png" width="70%">
+<img src="../images/Fig 3.png" style="max-width:100%; height:auto;">
 <p>Figure 2. The binary vector strategy</p>
 </div>
 
@@ -172,7 +172,7 @@ This makes use of a single large Ti plasmid in Agrobacterium where the gene of i
 The gene of interest is cloned to an intermediate vector. The intermediate vector is introduced into the Agrobacterium that combines with disarmed Ti plasmid to form co-integrated plasmid. Thus, a single plasmid is formed after co-integration by homologous recombination which is transferred to the plant cells.
 
 <div align="center">
-<img src="../images/Fig 4.png" width="70%">
+<img src="../images/Fig 4.png" style="max-width:100%; height:auto;">
 <p>Figure 3. The co-integration strategy</p>
 </div>
 
@@ -184,7 +184,7 @@ There are cloning vectors that are based on the Ri Plasmid of Agrobacterium rhiz
 When a supercoiled plasmid DNA (simple bacterial plasmid) in which an appropriate selectable marker (e.g. a kanamycin resistance gene ) and gene of interest has been inserted, is then introduced into plant embryo, the cloning by such method is “direct transfer method”.
 
 <div align="center">
-<img src="../images/Fig 5.png" width="70%">
+<img src="../images/Fig 5.png" style="max-width:100%; height:auto;">
 <p>Figure 4. Direct gene transfer</p>
 </div>
 
@@ -209,11 +209,11 @@ Ligases act on DNA substrates with 5′ terminal phosphate groups and form the p
 ##### Imagine a railway system where each part of the train represents a different type of gene, all working together to ensure smooth operation.
 
 <div align="center">
-<img src="./images/pic1.png" width="70%">
+<img src="./images/pic1.png" style="max-width:100%; height:auto;">
 
 </div>
 
 <div align="center">
-<img src="./images/pic2.png" width="70%">
+<img src="./images/pic2.png" style="max-width:100%; height:auto;">
 
 </div>
