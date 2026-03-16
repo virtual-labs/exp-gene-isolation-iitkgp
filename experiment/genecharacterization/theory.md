@@ -31,7 +31,7 @@ psy (phytoene synthase) from daffodil (*Narcissus pseudonarcissus*)
 crtI (phytoene desaturase) from the soil bacterium *Erwinia uredovora*.
 
 2.	**Bt Corn** 
-*Bacillus thuringiensis* (B. thuringiensis, a spore-forming soil bacterium, produces the crystal insecticidal protein (δ-endotoxin) known as Bt toxin by transcription from its cryogene. To provide resistance to pests like the European corn borer, reducing the need for chemical insecticides. Bt corn is engineered to express insecticidal proteins from the bacterium.  
+*Bacillus thuringiensis* B. thuringiensis, a spore-forming soil bacterium, produces the crystal insecticidal protein (δ-endotoxin) known as Bt toxin by transcription from its cryogene. To provide resistance to pests like the European corn borer, reducing the need for chemical insecticides. Bt corn is engineered to express insecticidal proteins from the bacterium.  
 Researchers characterized the Bt toxin genes, determining how they kill insect pests. They then incorporated these genes into the corn genome and ensured stable expression and proper folding of the toxin protein to be effective against pests. 
 
 3.	**Flood resistant Rice**
@@ -41,11 +41,11 @@ To enhance rice production in flood-prone regions, ensuring food security so tha
 
 
 <div align="center">
-<img src="../images/Fig 6.png" class="img-fluid">
+<img src="../images/Fig 6.png" class="img-fluid" style="max-width:100%; height:auto;">
 <p>Figure 1: Transgenic vegetables with improved storage</p>
 </div>
 
 <div align="center">
-<img src="../images/Fig 7.png" class="img-fluid">
+<img src="../images/Fig 7.png" class="img-fluid" style="max-width:100%; height:auto;">
 <p>Figure 2: Transgenic vegetables with nutritional value</p>
 </div>
