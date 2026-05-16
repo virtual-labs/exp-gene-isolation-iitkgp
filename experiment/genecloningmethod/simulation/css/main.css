@@ -1,0 +1,151 @@
+.card {
+    margin-bottom: 5px;
+}
+
+#dnacss {
+    cursor: pointer;
+    position: relative;
+    top: 85%;
+    left: 0%;
+    z-index: 1;
+    width: 10%;
+    height: 10%;
+    display: block;
+}
+
+#dnacutcss {
+    cursor: pointer;
+    position: relative;
+    top: 85%;
+    left: 1.2%;
+    z-index: 1;
+    width: 7.5%;
+    height: 10%;
+    display: none;
+}
+
+
+#scissorscss {
+    cursor: pointer;
+    position: absolute;
+    top: 2%;
+    left: 37%;
+    width: 10%;
+    display: block;
+    z-index: 1;
+}
+
+#petridish {
+    cursor: pointer;
+    position: absolute;
+    top:40%;
+    left:22%;
+    width: 10%;
+    display: none;
+    z-index: 0;
+}
+
+#bactpetridish {
+    cursor: pointer;
+    position: absolute;
+    top:44%;
+    left: 26%;
+    width: 3%;
+    display: none;
+    z-index: 1;
+}
+
+#testtube {
+    cursor: pointer;
+    position: absolute;
+    top: 25%;
+    left: 37%;
+    width: 5%;
+    display: none;
+    z-index: 1;
+}
+
+#picture5 {
+    cursor: pointer;
+    position: absolute;
+    top: 50%;
+    left: 37%;
+    width: 10%;
+    display: none;
+    z-index: 1;
+}
+#petridish1 {
+    cursor: pointer;
+    position: relative;
+    top: 2%;
+    left: 15%;
+    width: 20%;
+    display: none;
+    z-index: 0;
+}
+
+#bactpict6 {
+    cursor: pointer;
+    position: absolute;
+    top: 27%;
+    left: 20%;
+    width:4%;
+    display: none;
+    z-index: 1;
+}
+#bactpict6a {
+    cursor: pointer;
+    position: absolute;
+    top: 25%;
+    left: 26%;
+    width:4%;
+    display: none;
+    z-index: 1;
+}
+#bactpict6b {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    left: 18%;
+    width:4%;
+    display: none;
+    z-index: 1;
+}
+#bactpict6c {
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    left: 23%;
+    width:4%;
+    display: none;
+    z-index: 1;
+}
+#bactpict6d {
+    cursor: pointer;
+    position: absolute;
+    top: 45%;
+    left: 28%;
+    width:4%;
+    display: none;
+    z-index: 1;
+}
+
+#magniglass {
+    cursor: pointer;
+    position: absolute;
+    top: 10%;
+    left: 24%;
+    width: 15%;
+    display: none;
+    z-index: 1;
+}
+
+#pluscss{
+    cursor: pointer;
+    position: absolute;
+    top: 40%;
+    left: 15%;
+    width: 4%;
+    display: none;
+    z-index: 1;
+}
