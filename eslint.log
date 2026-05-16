@@ -1,0 +1,13 @@
+
+/home/runner/work/exp-gene-isolation-iitkgp/exp-gene-isolation-iitkgp/experiment/genecloningmethod/simulation/js/main.js
+   1:10  warning  'restartexp' is defined but never used       no-unused-vars
+   5:10  warning  'scissorjsclick' is defined but never used   no-unused-vars
+  13:10  warning  'scissorcutclick' is defined but never used  no-unused-vars
+  26:10  warning  'plusclick' is defined but never used        no-unused-vars
+  39:10  warning  'testtubeclick' is defined but never used    no-unused-vars
+  46:10  warning  'picture5click' is defined but never used    no-unused-vars
+  62:10  warning  'clickbactpic' is defined but never used     no-unused-vars
+  69:10  warning  'clickmagniglass' is defined but never used  no-unused-vars
+
+✖ 8 problems (0 errors, 8 warnings)
+
